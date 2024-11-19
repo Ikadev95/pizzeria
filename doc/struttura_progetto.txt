@@ -1,0 +1,10 @@
+Dobbiamo gestire una pizzeria creando le pizze vendute e gestendo poi i listini
+in cui venderemo sia pizze che bevande.
+Il listino deve essere stampabile.
+Le pizze devono contenere i vari ingredienti.
+Nel listino deve essere anche possibile acquistare formati famiglia o pizze battute.
+Ogni pizza deve contenere anche la lista degli ingredienti e il prezzo di vendita.
+Le bibite invece devono avere solo la descrizione e il prezzo di vendita.
+Per quanto riguarda i listini al momento mettiamo solo le pizze.
+Alla fine del listino deve essere stampato anche l'incremento per pizze formato famiglia e battute.
+Deve essere ciclato l'array delle pizze e solo se l'elemento è valorizzato deve essere stampato.
